@@ -13,9 +13,8 @@ With the popularization of digital information technology, the reversible data h
 ## How to use
 代码使用说明：用MATLAB软件直接运行主函数Main.m即可
 
-联系人姓名：吴友情
-联系人邮箱：wuyq.hfnu@qq.com
-
+联系人姓名：殷赵霞
+联系人邮箱：yinzhaoxia@ahu.edu.cn
 
 
 主函数：Main.m
