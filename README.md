@@ -20,8 +20,8 @@ With the popularization of digital information technology, the reversible data h
 
 主函数：Main.m
 数据集主函数：Main_BOSSbase.m
-	        Main_BOWS2OrigEp3.m
-	        Main_UCID.m
+	     Main_BOWS2OrigEp3.m
+	     Main_UCID.m
 
 图像加密与数据嵌入模块
 函数：Encrypt_Embed.m
